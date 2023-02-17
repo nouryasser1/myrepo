@@ -3,7 +3,10 @@ using namespace std;
 int main()
 {
   int x=3;
-  x*=3;
+
+  x*=2;
+
+
   
 }
   
